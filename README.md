@@ -32,7 +32,6 @@
 | IT Events March 2024 — Dubai, Nuremberg | Conference | [Recap](https://timspark.com/blog/events-timspark-recap-march-2024/) |
 | Custom AI Development Trends 2025 | Article | [Blog](https://timspark.com/blog/custom-ai-development-services-trends/) |
 | Interview on Business & Tech Strategy | Article | [GoodFirms](https://timspark.com/blog/goodfirms-interview-on-timspark-strategy/) |
-| AI, Innovation, and Tech Strategy | Article | [Blog](https://timspark.com/blog/timspark-talks-with-alex-velesnitski/) |
 | AWS Advanced Services Partner Accreditation | Press | [GlobeNewswire](https://ceo.ca/@GlobeNewswire/aws-grants-intetics-an-advanced-services-partner-accreditation) |
 | GSA Professional Awards 2022 — Manager of the Year finalist | Award | [Article](https://www.globalcybercurrencytimes.com/article/598752793-intetics-employees-awards) |
 
