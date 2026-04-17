@@ -25,15 +25,15 @@
 
 | Title | Type | Link |
 |-------|------|------|
-| AI, Innovation, and Tech Strategies | Interview | [YouTube](https://www.youtube.com/watch?v=ozePeY7JZ7Q) |
-| Predictive Software Engineering — WorldS4 2022, London | Conference | [YouTube](https://youtu.be/nEKDpjmBoQE?si=X4xtLANuUGdYvahV&t=2387) |
-| it-sa Cybersecurity 2023 / GITEX Global 2023 | Conference | [Recap](https://timspark.com/blog/october-2023-it-event-journey/) |
-| Slush 2023 / MEDICA 2023 — Helsinki, Dusseldorf | Conference | [Recap](https://timspark.com/blog/timspark-europe-it-events-november-2023/) |
-| Transform 2024 / ITB Berlin | Conference | [Recap](https://timspark.com/blog/events-timspark-recap-march-2024/) |
-| Custom AI Development Trends 2025 | Article | [Blog](https://timspark.com/blog/custom-ai-development-services-trends/) |
-| Interview on Business & Tech Strategy | Article | [GoodFirms](https://timspark.com/blog/goodfirms-interview-on-timspark-strategy/) |
+| AI, Innovation, and Technology Strategy | Interview | [YouTube](https://www.youtube.com/watch?v=ozePeY7JZ7Q) |
+| Predictive Software Engineering, WorldS4 2022, London | Conference | [YouTube](https://youtu.be/nEKDpjmBoQE?si=X4xtLANuUGdYvahV&t=2387) |
+| it-sa Cybersecurity / GITEX Global, Nuremberg & Dubai 2023 | Conference | [Recap](https://timspark.com/blog/october-2023-it-event-journey/) |
+| Slush / MEDICA, Helsinki & Dusseldorf 2023 | Conference | [Recap](https://timspark.com/blog/timspark-europe-it-events-november-2023/) |
+| Transform / ITB, Berlin 2024 | Conference | [Recap](https://timspark.com/blog/events-timspark-recap-march-2024/) |
+| Custom AI Development: Trends and Strategy | Article | [Blog](https://timspark.com/blog/custom-ai-development-services-trends/) |
+| CTO Interview: Business and Technology Strategy | Article | [GoodFirms](https://timspark.com/blog/goodfirms-interview-on-timspark-strategy/) |
 | AWS Advanced Services Partner Accreditation | Press | [GlobeNewswire](https://ceo.ca/@GlobeNewswire/aws-grants-intetics-an-advanced-services-partner-accreditation) |
-| GSA Professional Awards 2022 — Manager of the Year finalist | Award | [Article](https://www.globalcybercurrencytimes.com/article/598752793-intetics-employees-awards) |
+| GSA Professional Awards 2022, Manager of the Year Finalist | Award | [Article](https://www.globalcybercurrencytimes.com/article/598752793-intetics-employees-awards) |
 
 ---
 
@@ -43,18 +43,18 @@
 
 | Project | Description | Stack | Stars |
 |---------|-------------|-------|-------|
-| [yt-mcp](https://github.com/velesnitski/yt-mcp) | YouTrack MCP server — 54 tools for issue tracking, sprint boards, team dashboards, translations | Python | ![Stars](https://img.shields.io/github/stars/velesnitski/yt-mcp?style=flat&color=yellow) |
-| [gl-mcp](https://github.com/velesnitski/gl-mcp) | GitLab MCP server — 78 tools for code review, team analytics, quality analysis, HTML reports | Rust | ![Stars](https://img.shields.io/github/stars/velesnitski/gl-mcp?style=flat&color=yellow) |
-| [zbbx-mcp](https://github.com/velesnitski/zbbx-mcp) | Zabbix MCP server — infrastructure monitoring, server analytics, traffic analysis | Python | ![Stars](https://img.shields.io/github/stars/velesnitski/zbbx-mcp?style=flat&color=yellow) |
-| [slk-mcp](https://github.com/velesnitski/slk-mcp) | Slack MCP server — channels, messages, threads, search | Go | ![Stars](https://img.shields.io/github/stars/velesnitski/slk-mcp?style=flat&color=yellow) |
+| [yt-mcp](https://github.com/velesnitski/yt-mcp) | YouTrack MCP server for issue tracking, sprint boards, and team dashboards | Python | ![Stars](https://img.shields.io/github/stars/velesnitski/yt-mcp?style=flat&color=yellow) |
+| [gl-mcp](https://github.com/velesnitski/gl-mcp) | GitLab MCP server for code review, team analytics, and quality analysis | Rust | ![Stars](https://img.shields.io/github/stars/velesnitski/gl-mcp?style=flat&color=yellow) |
+| [zbbx-mcp](https://github.com/velesnitski/zbbx-mcp) | Zabbix MCP server for infrastructure monitoring and traffic analysis | Python | ![Stars](https://img.shields.io/github/stars/velesnitski/zbbx-mcp?style=flat&color=yellow) |
+| [slk-mcp](https://github.com/velesnitski/slk-mcp) | Slack MCP server for channels, messages, threads, and search | Go | ![Stars](https://img.shields.io/github/stars/velesnitski/slk-mcp?style=flat&color=yellow) |
 
 ### Developer Tools & Templates
 
 | Project | Description | Stack | Stars |
 |---------|-------------|-------|-------|
-| [php-agents-boilerplate](https://github.com/velesnitski/php-agents-boilerplate) | Multi-agent system for Claude Code — PHP/Laravel team with router, dev, DBA, ops, QA agents | Agents | ![Stars](https://img.shields.io/github/stars/velesnitski/php-agents-boilerplate?style=flat&color=yellow) |
-| [rca-template](https://github.com/velesnitski/rca-template) | AI-assisted Root Cause Analysis template — structured framework for production incident analysis | HTML | ![Stars](https://img.shields.io/github/stars/velesnitski/rca-template?style=flat&color=yellow) |
-| [DapperSimpleRepository](https://github.com/velesnitski/DapperSimpleRepository) | Dapper repository pattern — SimpleCRUD + SQLinq based data access layer | C# | ![Stars](https://img.shields.io/github/stars/velesnitski/DapperSimpleRepository?style=flat&color=yellow) |
+| [php-agents-boilerplate](https://github.com/velesnitski/php-agents-boilerplate) | Multi-agent system for Claude Code with router, backend, DBA, ops, and QA agents | Agents | ![Stars](https://img.shields.io/github/stars/velesnitski/php-agents-boilerplate?style=flat&color=yellow) |
+| [rca-template](https://github.com/velesnitski/rca-template) | AI-assisted Root Cause Analysis framework for production incident analysis | HTML | ![Stars](https://img.shields.io/github/stars/velesnitski/rca-template?style=flat&color=yellow) |
+| [DapperSimpleRepository](https://github.com/velesnitski/DapperSimpleRepository) | Dapper repository pattern with SimpleCRUD and SQLinq-based data access | C# | ![Stars](https://img.shields.io/github/stars/velesnitski/DapperSimpleRepository?style=flat&color=yellow) |
 
 ---
 
