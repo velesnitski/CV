@@ -28,7 +28,7 @@
 | AI, Innovation, and Tech Strategies | Interview | [YouTube](https://www.youtube.com/watch?v=ozePeY7JZ7Q) |
 | Predictive Software Engineering — WorldS4 2022, London | Conference | [YouTube](https://youtu.be/nEKDpjmBoQE?si=X4xtLANuUGdYvahV&t=2387) |
 | IT Events October 2023 — AI Solutions & Innovation | Conference | [Recap](https://timspark.com/blog/october-2023-it-event-journey/) |
-| MEDICA 2023 — Telehealth & IoT Wearables, Dusseldorf | Conference | [Recap](https://timspark.com/blog/timspark-europe-it-events-november-2023/) |
+| Slush 2023 / MEDICA 2023 — Helsinki, Dusseldorf | Conference | [Recap](https://timspark.com/blog/timspark-europe-it-events-november-2023/) |
 | IT Events March 2024 — Dubai, Nuremberg | Conference | [Recap](https://timspark.com/blog/events-timspark-recap-march-2024/) |
 | Custom AI Development Trends 2025 | Article | [Blog](https://timspark.com/blog/custom-ai-development-services-trends/) |
 | Interview on Business & Tech Strategy | Article | [GoodFirms](https://timspark.com/blog/goodfirms-interview-on-timspark-strategy/) |
