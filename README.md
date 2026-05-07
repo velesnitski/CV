@@ -11,6 +11,10 @@
   <a href="https://www.crunchbase.com/person/alex-velesnitski"><img src="https://img.shields.io/badge/Crunchbase-Profile-009EDB?logo=crunchbase" alt="Crunchbase"></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/velesnitski/CV?label=last%20updated&color=blue" alt="Last Updated">
+</p>
+
 <p align="center"><strong>CTO / Head of Engineering</strong> with 19+ years in software development, infrastructure, and engineering leadership.<br>Led 50+ engineer teams. Built healthcare platforms, high-load VPN/ZTNA products at 10M+ user scale, and open source developer tooling.</p>
 
 ---
@@ -48,11 +52,19 @@
 | [zbbx-mcp](https://github.com/velesnitski/zbbx-mcp) | Zabbix MCP server for infrastructure monitoring and traffic analysis | Python | ![Stars](https://img.shields.io/github/stars/velesnitski/zbbx-mcp?style=flat&color=yellow) |
 | [slk-mcp](https://github.com/velesnitski/slk-mcp) | Slack MCP server for channels, messages, threads, and search | Go | ![Stars](https://img.shields.io/github/stars/velesnitski/slk-mcp?style=flat&color=yellow) |
 
-### Developer Tools & Templates
+### Multi-Agent Templates for Claude Code
+
+| Project | Description | Framework | Stars |
+|---------|-------------|-----------|-------|
+| [php-agents-boilerplate](https://github.com/velesnitski/php-agents-boilerplate) | Multi-agent system with router, backend dev, DBA, ops, and QA agents | PHP / Laravel | ![Stars](https://img.shields.io/github/stars/velesnitski/php-agents-boilerplate?style=flat&color=yellow) |
+| [nuxt-agents](https://github.com/velesnitski/nuxt-agents) | Multi-agent template (router + frontend-dev + i18n + qa + ops) | Nuxt 4 / Vue 3 / TS | ![Stars](https://img.shields.io/github/stars/velesnitski/nuxt-agents?style=flat&color=yellow) |
+| [wp-agents](https://github.com/velesnitski/wp-agents) | Generic multi-agent template for WordPress projects | WordPress | ![Stars](https://img.shields.io/github/stars/velesnitski/wp-agents?style=flat&color=yellow) |
+
+### Guides & Templates
 
 | Project | Description | Stack | Stars |
 |---------|-------------|-------|-------|
-| [php-agents-boilerplate](https://github.com/velesnitski/php-agents-boilerplate) | Multi-agent system for Claude Code with router, backend, DBA, ops, and QA agents | Agents | ![Stars](https://img.shields.io/github/stars/velesnitski/php-agents-boilerplate?style=flat&color=yellow) |
+| [claude-code-quickstart](https://github.com/velesnitski/claude-code-quickstart) | Claude Code in 12 minutes — terminal setup, project structure, copy-paste examples | Markdown + PDF | ![Stars](https://img.shields.io/github/stars/velesnitski/claude-code-quickstart?style=flat&color=yellow) |
 | [rca-template](https://github.com/velesnitski/rca-template) | AI-assisted Root Cause Analysis framework for production incident analysis | HTML | ![Stars](https://img.shields.io/github/stars/velesnitski/rca-template?style=flat&color=yellow) |
 | [DapperSimpleRepository](https://github.com/velesnitski/DapperSimpleRepository) | Dapper repository pattern with SimpleCRUD and SQLinq-based data access | C# | ![Stars](https://img.shields.io/github/stars/velesnitski/DapperSimpleRepository?style=flat&color=yellow) |
 
