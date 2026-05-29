@@ -60,10 +60,11 @@
 | [nuxt-agents](https://github.com/velesnitski/nuxt-agents) | Multi-agent template (router + frontend-dev + i18n + qa + ops) | Nuxt 4 / Vue 3 / TS | ![Stars](https://img.shields.io/github/stars/velesnitski/nuxt-agents?style=flat&color=yellow) |
 | [wp-agents](https://github.com/velesnitski/wp-agents) | Generic multi-agent template for WordPress projects | WordPress | ![Stars](https://img.shields.io/github/stars/velesnitski/wp-agents?style=flat&color=yellow) |
 
-### Guides & Templates
+### Tools & Guides
 
 | Project | Description | Stack | Stars |
 |---------|-------------|-------|-------|
+| [detect-blocking](https://github.com/velesnitski/detect-blocking) | Diagnose what kind of network filtering blocks a VPN endpoint — single-file Bash for macOS/Linux | Shell | ![Stars](https://img.shields.io/github/stars/velesnitski/detect-blocking?style=flat&color=yellow) |
 | [claude-code-quickstart](https://github.com/velesnitski/claude-code-quickstart) | Claude Code in 12 minutes — terminal setup, project structure, copy-paste examples | Markdown + PDF | ![Stars](https://img.shields.io/github/stars/velesnitski/claude-code-quickstart?style=flat&color=yellow) |
 | [rca-template](https://github.com/velesnitski/rca-template) | AI-assisted Root Cause Analysis framework for production incident analysis | HTML | ![Stars](https://img.shields.io/github/stars/velesnitski/rca-template?style=flat&color=yellow) |
 | [DapperSimpleRepository](https://github.com/velesnitski/DapperSimpleRepository) | Dapper repository pattern with SimpleCRUD and SQLinq-based data access | C# | ![Stars](https://img.shields.io/github/stars/velesnitski/DapperSimpleRepository?style=flat&color=yellow) |
