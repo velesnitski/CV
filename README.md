@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/github/last-commit/velesnitski/CV?label=last%20updated&color=blue" alt="Last Updated">
 </p>
 
-<p align="center"><strong>CTO / Head of Engineering</strong> with 19+ years in software development, infrastructure, and engineering leadership.<br>Led 50+ engineer teams. Built healthcare platforms, high-load VPN/ZTNA products at 10M+ user scale, and open source developer tooling.</p>
+<p align="center"><strong>CTO / Head of Engineering</strong> — software development, infrastructure, and engineering leadership.<br>Led 50+ engineer teams. Built healthcare platforms, high-load VPN/ZTNA products at 10M+ user scale, and open source developer tooling.</p>
 
 ---
 
@@ -48,9 +48,9 @@
 | Project | Description | Stack | Stars |
 |---------|-------------|-------|-------|
 | [yt-mcp](https://github.com/velesnitski/yt-mcp) | YouTrack MCP server for issue tracking, sprint boards, and team dashboards | Python | ![Stars](https://img.shields.io/github/stars/velesnitski/yt-mcp?style=flat&color=yellow) |
-| [gl-mcp](https://github.com/velesnitski/gl-mcp) | GitLab MCP server for code review, team analytics, and quality analysis | Rust | ![Stars](https://img.shields.io/github/stars/velesnitski/gl-mcp?style=flat&color=yellow) |
+| [gl-mcp](https://github.com/velesnitski/gl-mcp) | GitLab MCP server — code review, team analytics, and spec-drift audits | Rust | ![Stars](https://img.shields.io/github/stars/velesnitski/gl-mcp?style=flat&color=yellow) |
 | [zbbx-mcp](https://github.com/velesnitski/zbbx-mcp) | Zabbix MCP server for infrastructure monitoring and traffic analysis | Python | ![Stars](https://img.shields.io/github/stars/velesnitski/zbbx-mcp?style=flat&color=yellow) |
-| [slk-mcp](https://github.com/velesnitski/slk-mcp) | Slack MCP server for channels, messages, threads, and search | Go | ![Stars](https://img.shields.io/github/stars/velesnitski/slk-mcp?style=flat&color=yellow) |
+| [slk-mcp](https://github.com/velesnitski/slk-mcp) | Slack MCP server — digests, decision detection, and voice transcription | Go | ![Stars](https://img.shields.io/github/stars/velesnitski/slk-mcp?style=flat&color=yellow) |
 
 ### Multi-Agent Templates for Claude Code
 
@@ -64,7 +64,7 @@
 
 | Project | Description | Stack | Stars |
 |---------|-------------|-------|-------|
-| [detect-blocking](https://github.com/velesnitski/detect-blocking) | Diagnose what kind of network filtering blocks a VPN endpoint — single-file Bash for macOS/Linux | Shell | ![Stars](https://img.shields.io/github/stars/velesnitski/detect-blocking?style=flat&color=yellow) |
+| [detect-blocking](https://github.com/velesnitski/detect-blocking) | Diagnose what kind of network filtering blocks a VPN endpoint — 27 probes, baseline/diff, CI-tested Bash | Shell | ![Stars](https://img.shields.io/github/stars/velesnitski/detect-blocking?style=flat&color=yellow) |
 | [claude-code-quickstart](https://github.com/velesnitski/claude-code-quickstart) | Claude Code in 12 minutes — terminal setup, project structure, copy-paste examples | Markdown + PDF | ![Stars](https://img.shields.io/github/stars/velesnitski/claude-code-quickstart?style=flat&color=yellow) |
 | [rca-template](https://github.com/velesnitski/rca-template) | AI-assisted Root Cause Analysis framework for production incident analysis | HTML | ![Stars](https://img.shields.io/github/stars/velesnitski/rca-template?style=flat&color=yellow) |
 | [DapperSimpleRepository](https://github.com/velesnitski/DapperSimpleRepository) | Dapper repository pattern with SimpleCRUD and SQLinq-based data access | C# | ![Stars](https://img.shields.io/github/stars/velesnitski/DapperSimpleRepository?style=flat&color=yellow) |
